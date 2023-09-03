@@ -1,7 +1,7 @@
 lista de integrantes:
 
-	- Natan Barbosa
-	- Bianca Lages
-	- Italo Caldas
-	- Victor Matheus
-	- José Vinicius
+	- Natan Barbosa = 202009002846
+	- Bianca Lages = 202303220456
+	- Italo Caldas = 202308431188
+	- Victor Matheus = 202308431161
+	- José Vinicius = 202309432285
